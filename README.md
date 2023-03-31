@@ -7,4 +7,4 @@ The "Custom Busy Indicator in Qt" project is a desktop application developed usi
 The GUI of the application consists of a display area containing the custom activity indicator. The custom activity indicator is created using QML.
 
 ## Graphical interface
-[![Main Window](https://github.com/DarkShrill/QtSpinner/blob/master/stuff/Qt%20%Spinner.PNG)](https://github.com/DarkShrill/QtSpinner/blob/master/stuff/Qt%20%Spinner.PNG)
+[![Main Window](https://github.com/DarkShrill/QtSpinner/blob/master/stuff/Qt%20Spinner.PNG)](https://github.com/DarkShrill/QtSpinner/blob/master/stuff/Qt%20Spinner.PNG)
